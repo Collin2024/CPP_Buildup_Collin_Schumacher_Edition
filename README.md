@@ -48,7 +48,7 @@ tournament), who goes first, setting up the round, and setting up the tournament
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png) Compositions: 
 
 - player\_list: Vector of player pointers so that players can interact in the round polymorphically 
-- Game class 
+- ### Game class 
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png)This class is responsible for running the entire game; everything from the 
 
@@ -56,7 +56,7 @@ welcome menu, playing a new game/tournament, and loading in a game from a serial
 
 - player\_list: Vector of player pointers so that players can interact in the round polymorphically 
   - memory: Vector of strings used for reading in a SERIALIZATION file at each line and storing them.
-- Domino class 
+- ### Domino class 
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png)This class is responsible for handling all of the domino capabilities such as stacks, 
 
@@ -66,7 +66,7 @@ boneyards, and hands. In addition, it handles subsequent functions like determin
 - stack: Vector of strings used for holding the tiles in the stack
 - hand: Vector of strings used for holding the tiles in the hand
 - selected\_bone: String is used for holding the domino that was selected 
-- Player class  
+- ### Player class  
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png)This class is the base class for each player. It handles all of the important player 
 
@@ -75,13 +75,13 @@ abilities like being able to call all of the important domino functions as well 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png) Compositions:
 
 - Table: Domino object used for the player which is able to interact with said dominoes
-- Human class  
+- ### Human class  
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png)This class is one of the two derived classes of the player class it provides its own 
 
 input validation (user enters input) for selection and making a move (polymorphism). All of the functions are from the player class 
 
-- Computer class  
+- ### Computer class  
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png)This class is one of the two derived classes of the player class. It provides its own 
 
