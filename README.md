@@ -6,15 +6,15 @@ Real Life picture of Buildup Domino Game
 
 Note it’s one of the few domino games that uses 2 different colored set of dominoes 
 
-Bug Report 
+## Bug Report 
 
 The only bug detected occurs when the domino location is listed in help mode. Sometimes this may be incorrect. 
 
-Program execution 
+## Program execution 
 
 This program was made using the 2019 Microsoft Visual Studio. The main executor is the main.cpp file. Please note that this game uses PCH: pre compiled headers via the respected headers.h and headers.cpp files, which is where the declared libraries are located e.g: #include <iostream>. In short, just add all of the files provided to you in this folder and press the “F5” key and watch as it compiles and executes. 
 
-Feature List 
+## Feature List 
 
 - Missing Features 
 
@@ -30,12 +30,12 @@ number One
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.004.png) If the file cannot be found, display .txt files found in the directory
 
-Data Structures Used 
+## Data Structures Used 
 
 - A vector of strings was the primarily used data structure, and it was used for the following pieces… boneyard, hand, and stack. 
 - A vector of Player pointers was used in implementing the polymorphic behavior in the game 
 
-Classes 
+## Classes 
 
 - Round class  
 
@@ -85,7 +85,7 @@ input validation (user enters input) for selection and making a move (polymorphi
 
 input validation (computer generates its own input) for selection and making a move (polymorphism). Most of the functions are from the player class, but computer also has ai\_decison function used for coming up with the domino selection (POLYMORPHIC) and will always return 2 (make a move since computer will ALWAYS play to win).
 
-Log 
+## Log 
 
 1. 1/16/2023: learned how to play Buildup, found a paper printable double 6 domino kit (located in the doc and made one of them black through editor), and attempted to play the game in real life with a family member. 
 1. 1/17/2023: Created the project in 2019 Visual Studio and added in the appropriate classes and learned in greater detail how to play the game since it was the 1st day the professor went into detail of how to play buildup. 
@@ -100,7 +100,7 @@ Log
 10. 2/1/2023-2/3/2023: Worked on extensive testing cleanup 
 10. 2/4/2023-2/6/2023: Wrote user manual and added final touches including the ironing out of any glitches. 
 
-Screen shots 
+## Screen shots 
 
 1. Main Menu
 
