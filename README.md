@@ -118,28 +118,23 @@ Screen shots
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.008.jpeg)
 
-4. Help mode![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.009.png)
-
+4. Help mode
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.010.jpeg)
 
 5. Human input for stacking opponents stack 
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.011.jpeg)
 
-6. Human input for stacking on its own stack![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.012.png)
-
+6. Human input for stacking on its own stack
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.013.jpeg)
 
 7. save game 
-
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.014.jpeg)
 
 8. Load game 
-
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.015.png)
 
 9. When human player can’t make any moves 
-
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.016.jpeg)
 
 10. Which player won 
