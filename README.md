@@ -22,7 +22,7 @@ This program was made using the 2019 Microsoft Visual Studio. The main executor 
 
 tile left 
 
-- Extra features  
+- ### Extra features  
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.004.png) Allow for user to enter and read serialization files with white space e.g OPL file 
 
@@ -37,7 +37,7 @@ number One
 
 ## Classes 
 
-- Round class  
+- ### Round class  
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png)This class is responsible for all information about a round including who won the 
 
