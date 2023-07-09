@@ -133,9 +133,11 @@ input validation (computer generates its own input) for selection and making a m
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.014.jpeg)
 
 8. Load game 
+
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.015.png)
 
 9. When human player can’t make any moves 
+
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.016.jpeg)
 
 10. Which player won 
