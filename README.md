@@ -119,6 +119,7 @@ Screen shots
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.008.jpeg)
 
 4. Help mode
+
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.010.jpeg)
 
 5. Human input for stacking opponents stack 
@@ -129,6 +130,7 @@ Screen shots
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.013.jpeg)
 
 7. save game 
+
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.014.jpeg)
 
 8. Load game 
