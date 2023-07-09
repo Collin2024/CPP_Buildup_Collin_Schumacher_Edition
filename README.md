@@ -23,7 +23,7 @@ tile left
 
 - ### Extra features  
 
-![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.004.png) Allow for user to enter and read serialization files with white space e.g OPL file 
+![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.004.png) Allow for user to enter and read serialization files with white space e.g test file 
 
 number One
 
