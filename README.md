@@ -44,6 +44,7 @@ number One
 round, who won the tournament, saving the game (SERIALIZATION of a 
 
 tournament), who goes first, setting up the round, and setting up the tournament. 
+
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png)Compositions: 
 
 - player\_list: Vector of player pointers so that players can interact in the round polymorphically 
