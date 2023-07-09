@@ -1,7 +1,6 @@
 Buildup (C++) Collin Edition™ 
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.001.jpeg)
-
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.002.jpeg)
 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.003.jpeg)
