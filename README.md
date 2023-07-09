@@ -1,5 +1,4 @@
- # Buildup (C++) Collin Edition™ (click on Buildup_Collin_Schumacher_Edition.exe to execute)
-
+ # Buildup (C++) Collin Edition™ 
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.001.jpeg)![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.002.jpeg)![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.003.jpeg)
 
 Real Life picture of Buildup Domino Game 
@@ -12,7 +11,7 @@ The only bug detected occurs when the domino location is listed in help mode. So
 
 ## Program execution 
 
-This program was made using the 2019 Microsoft Visual Studio. The main executor is the main.cpp file. Please note that this game uses PCH: pre compiled headers via the respected headers.h and headers.cpp files, which is where the declared libraries are located e.g: #include <iostream>. In short, just add all of the files provided to you in this folder and press the “F5” key and watch as it compiles and executes. 
+This program was made using the 2019 Microsoft Visual Studio. The main executor is Buildup_Collin_Schumacher_Edition.exe file just click on it and the game should run just as expected 
 
 ## Feature List 
 
