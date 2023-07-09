@@ -125,6 +125,7 @@ input validation (computer generates its own input) for selection and making a m
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.011.jpeg)
 
 6. Human input for stacking on its own stack
+
 ![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.013.jpeg)
 
 7. save game 
