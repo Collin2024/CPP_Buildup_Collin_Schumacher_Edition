@@ -45,7 +45,7 @@ round, who won the tournament, saving the game (SERIALIZATION of a
 
 tournament), who goes first, setting up the round, and setting up the tournament. 
 
-![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png)Compositions: 
+![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png)### Compositions: 
 
 - player\_list: Vector of player pointers so that players can interact in the round polymorphically 
 - Game class 
@@ -72,7 +72,7 @@ boneyards, and hands. In addition, it handles subsequent functions like determin
 
 abilities like being able to call all of the important domino functions as well as  other functions like being able to tally score, make a move(polymorphic), and  determining the legal placement of a domino.
 
-![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png)Compositions:
+![](Aspose.Words.f7bbb1b0-bb67-48fa-84e7-aef9368cc1e9.005.png)### Compositions:
 
 - Table: Domino object used for the player which is able to interact with said dominoes
 - Human class  
